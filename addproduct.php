@@ -70,21 +70,7 @@
 
 
 
-		<div class="container">
-<form>
-  <div class="form-group">
-    <label for="productname">Name of the Product:</label>
-    <input type="text" class="form-control" id="prod_name" placeholder="name">
-  </div>
-  
-  <div class="form-group">
-    <label for="ProductDesc">Product Details:</label>
-    <textarea class="form-control"  placeholder="Details" id="desc" rows="3"></textarea>
-  </div>
-  <button id="submit" class="btn btn-primary btn-lg">Submit</button>
-  <h2 id="info"></h2>
-</form>
-</div>
+		
 
 
 
